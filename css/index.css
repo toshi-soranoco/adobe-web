@@ -220,8 +220,7 @@ align-content: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 30px;
   padding: 40px;
-  
-}
+  }
 
 .under {
   color: red;
@@ -270,3 +269,50 @@ align-content: center;
   margin-left: 70px;
   }
 
+.view {
+  color: black;
+  font-size: 15px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  float: right;
+  border-bottom: 3px solid black;
+  margin-top: 40px;
+ 
+  }
+
+.space {
+  color: black;
+  margin-left: 80px;
+  }
+
+  .topic{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    padding: 40px;
+    margin-top: 40px;
+    }
+
+.topics-title {
+      font-size: 10px;
+      margin: 10px 0;
+      font-weight: lighter;
+      
+    }
+
+   
+#topics ul {
+      display: flex;
+      justify-content: space-between;
+      margin-left: 70px;
+    }
+
+#topics li {
+      width: 32%;
+    }
+
+.bolder {
+  color: black;
+  font-size: 17px;
+  font-weight: bold;
+}
