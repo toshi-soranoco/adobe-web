@@ -113,7 +113,7 @@ align-content: center;
  color: #f0f0f0;
 }
 .parttwo {
-  background-color: #f5f5f5;
+  background-color: white;
   padding: 90px 0;
 }
 .parttwo .sec-title {
@@ -203,7 +203,7 @@ align-content: center;
  margin-bottom: 140px;
   border: 4px solid;
   margin-top: 50px;
-  margin-left: 550px;
+  margin-left: 600px;
   background-color: white;
   box-shadow: white;
 }
@@ -316,3 +316,96 @@ align-content: center;
   font-size: 17px;
   font-weight: bold;
 }
+
+#botimage {
+  margin-bottom: 80px;
+}
+#botimage img {
+  width: 100%;
+  max-width: 1920px;
+  height: 600px;
+  object-fit: cover;
+  margin-top: 150px;
+}
+
+h1{
+  color: white;
+  text-align: left;
+  font-size: 55px;
+  margin-top: 175px;
+  position: absolute;left: 100px;
+  line-height: 80px;
+  padding: 60px;
+  letter-spacing: 8px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#botime {
+  width: 100%;
+  height: 600px;
+  background-image: url(../img/img_overlay_laptop.png);
+  position: relative;
+  background-size: cover;
+  background-color: white;
+  margin-top: 160px;
+  object-fit: cover;
+  margin-bottom: 60px;
+}
+
+.bott {
+  text-align: center;
+  margin-left: 60px;
+  line-height: 260px;
+  color: white;
+  letter-spacing: 8px;
+  font-weight: lighter;
+  font-size: 40px;
+}
+
+.onetext {
+  color: white;
+  text-align: center;
+  font-size: 23px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 30px;
+  line-height: 45px;
+  }
+
+  .twotext {
+    color: white;
+    text-align: center;
+    font-size: 23px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 30px;
+    line-height: 45px;
+    margin-top: 30px;
+    }
+
+    #shop iframe {
+      width: 35%;
+      height: 55vh;
+      margin-top: 70px;
+      margin-left: 100px;
+      vertical-align: bottom;
+    }
+  
+    .texty{
+      color: black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 30px;
+      padding: 40px;
+      margin-top: 40px;
+      float: right;
+      margin-right: 580px;
+      line-height: 250px;
+      }
+
+.spantext {
+  color: black;
+  font-weight: lighter;
+  font-size: 15px;
+  margin-left: 7px;
+  text-decoration: none;
+  
+}
+
